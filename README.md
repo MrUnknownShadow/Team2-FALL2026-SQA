@@ -6,7 +6,8 @@ COMP 5710/6710 Software Quality Assurance, Fall 2026. Project: add fuzzing, fore
 
 - Team name: Team2
 - Members:
-  1. Mith Patel, mithpatel01@gmail.com
+  1. Mith Patel, mdpp0068@auburn.edu
+  2. Jacob Beranek 
 
 ## SQA deliverables
 
