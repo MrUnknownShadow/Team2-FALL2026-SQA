@@ -9,6 +9,7 @@ COMP 5710/6710 Software Quality Assurance, Fall 2026. Project: add fuzzing, fore
   1. Mith Patel, mdpp0068@auburn.edu
   2. Jacob Beranek jjb0098@auburn.edu
   3. Parker Smith pcs0039@auburn.edu
+  4. Ainsley McLeod acm0186@auburn.edu
 
 ## SQA deliverables
 
